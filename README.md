@@ -1,73 +1,91 @@
-# Hi, I'm Lena
+# Arrhenyx
 
-**AI & Machine Learning Engineer | NLP & Chatbot Specialist | Full-Stack Developer**
+Research-driven engineering at the intersection of **Artificial Intelligence, Machine Learning, and Computational Modeling**.
 
-lenafaraji.ml@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/lenafaraji) | [GitHub](https://github.com/lena-faraji) | [Portfolio](#) 
+---
 
-## About Me
-I'm a passionate software engineer with expertise in building **AI-powered conversational systems** and **scalable full-stack applications**. I specialize in bridging the gap between cutting-edge AI research and production-ready solutions, with a particular interest in healthcare applications.
+## Overview
 
-- **AI Development:** Experienced with transformer architectures, LLM fine-tuning, and deploying deep learning models  
-- **Full-Stack Proficiency:** Building responsive frontends with React/Next.js and robust backends with FastAPI  
-- **Research-Driven Approach:** Focus on model optimization, bias reduction, and practical AI implementation  
+Arrhenyx is a personal research and engineering space dedicated to building **reproducible, scalable, and scientifically grounded AI systems**.  
+The focus is on translating theoretical ideas into clean, production-ready implementations, with particular interest in **human-centered and healthcare-oriented AI**.
+
+This GitHub hosts experimental research code, applied machine learning projects, and system-level implementations.
+
+---
+
+## Research Interests
+
+- **Machine Learning & NLP**
+  - Transformer architectures and large language models
+  - Sentiment analysis, NER, and conversational systems
+  - Prompt engineering and inference optimization
+
+- **AI Research & Responsibility**
+  - Bias analysis and mitigation in generative models
+  - Model efficiency vs. performance trade-offs
+  - Ethical deployment of AI in sensitive domains
+
+- **Applied AI Systems**
+  - End-to-end AI pipelines
+  - FastAPI-based inference services
+  - Scalable full-stack AI applications
 
 ---
 
 ## Technical Stack
 
-| Area                  | Technologies                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| AI/ML Frameworks       | TensorFlow, PyTorch, Keras, HuggingFace Transformers                        |
-| NLP Specialization     | Text Classification, NER, Sentiment Analysis, Conversational AI, Prompt Engineering |
-| Backend Development    | FastAPI, Flask, PostgreSQL, RESTful APIs                                     |
-| Frontend Development   | React.js, Next.js, Redux, Tailwind CSS, TypeScript                           |
-| Data Science           | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn                             |
-| DevOps & Tools         | Git, Docker, Jupyter, VSCode, CI/CD Pipelines                                |
+| Domain | Technologies |
+|------|-------------|
+| ML / DL | PyTorch, TensorFlow, Keras, HuggingFace |
+| NLP | Transformers, Text Classification, Conversational AI |
+| Backend | FastAPI, Flask, RESTful APIs |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Data | NumPy, Pandas, Scikit-learn |
+| Tooling | Docker, Git, Jupyter, CI/CD |
 
 ---
 
-## Featured Projects
+## Selected Work
 
-### The Therapist - AI Mental Health Companion
-AI-powered mental health chatbot using FastAPI and DeepSeek models.
-- Implemented context-aware conversation handling with custom NLP pipelines  
-- Designed emotional recognition system to tailor responses to user sentiment  
-- Built secure user authentication and session management  
+### AI Mental Health Companion
+Research-oriented conversational AI system for mental health support.
+- Context-aware dialogue modeling
+- Emotion and sentiment recognition pipelines
+- Secure authentication and session handling
+- FastAPI-based inference architecture
 
-### LLM Optimization Research
-Research on bias reduction and inference optimization in language models.
-- Developed techniques to reduce gender and racial bias in model outputs  
-- Achieved 25% improvement in inference speed through architectural optimizations  
-- Published findings on model efficiency trade-offs in ethical AI deployment  
+### LLM Optimization Studies
+Experimental research on improving efficiency and fairness in language models.
+- Bias reduction techniques in generative AI
+- Inference-time architectural optimizations
+- Analysis of ethical trade-offs in deployment
 
-### Image Processing & Computer Vision Projects
-Projects combining classical image processing techniques and deep learning for computer vision.
-- **Image Enhancement & Denoising:** Improved image quality using filters and neural networks  
-- **Object Detection & Segmentation:** Implemented YOLO-based models to detect and segment objects  
-- **Face & Emotion Recognition:** Built real-time facial expression recognition pipelines  
-- **Medical Imaging Applications:** Developed AI models to assist in detecting anomalies in medical scans  
-
-### E-Commerce Platform
-Full-stack e-commerce solution with React frontend and FastAPI backend.
-- Created responsive UI components with Tailwind CSS and React  
-- Implemented secure payment processing and user authentication  
-- Optimized performance leading to 40% faster load times  
-
----
-
-## GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lena-faraji&show_icons=true&count_private=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lena-faraji&layout=compact&hide_border=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lena-faraji&theme=radical&hide_border=true)
+### Computer Vision Experiments
+Applied research combining classical vision and deep learning.
+- Image enhancement and denoising
+- Object detection and segmentation
+- Facial expression analysis
+- Medical imaging applications
 
 ---
 
 ## Current Focus
-- Exploring efficient fine-tuning techniques for large language models  
-- Developing accessible AI solutions for mental health applications  
-- Contributing to open-source AI projects and research papers  
 
-"Merging rigorous AI research with elegant code to create solutions that make a difference."
+- Efficient fine-tuning strategies for large language models
+- Human-centered AI for healthcare applications
+- Open-source contributions and research collaboration
 
-Feel free to reach out for collaboration on AI projects or research opportunities!
+---
+
+## Maintainer
+
+**Arrhenyx**  
+Research & Engineering Portfolio
+
+For academic and professional context:
+- LinkedIn: https://www.linkedin.com/in/lenafaraji  
+- Contact: lenafaraji.ml@gmail.com  
+
+---
+
+> *Scientific rigor first. Clean code always.*
